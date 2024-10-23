@@ -1,0 +1,15 @@
+A_x: 1.0
+A_y: -0.52
+B_x: 0.55
+B_y: -1.80
+C_x: 0.68
+C_y: -2.98
+E_x: 0.18
+E_y: -2.98
+Yaw_th: 0.035
+Ar_0_id: 5
+Ar_1_id: 0
+Ar_2_id: 5
+Track_max_vel_x: 0.6
+Track_thres_vel_x: 0.3
+

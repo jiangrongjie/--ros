@@ -1,0 +1,2 @@
+abot_base/abot_bringup:abot_base/abot_imu:abot_base/abot_model:abot_base/lidar_filters:abot_find:cam_track:imu_filter:robot_slam:robot_voice:shoot_cmd:user_demo
+-DCATKIN_DEVEL_PREFIX=/home/abot/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/abot/robot_ws/install -G Unix Makefiles

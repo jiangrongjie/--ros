@@ -1,0 +1,8 @@
+prefix=/home/abot/robot_ws/devel
+
+Name: AR_SIM
+Description: Description of AR_SIM
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
